@@ -18,19 +18,5 @@
 - Download the image
 - Replace the images from img folder
 
-## ❌Note: Things you can do!
-
-- Remove unnecessary things and errors
-- Replace the information.
-- Improve UI/UX.
-- Add new features.
-
-## ❌Note: Read before contributing
-
-- Star the repository.
-- Create an issue first and then wait for the approval.
-- Fork the repository.
-- Don't forget to add the issue number in the PR Template with a screenshot of the changes in the description.
-- Make your pull request and wait for its approval.
 
 
