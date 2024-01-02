@@ -1,0 +1,25 @@
+# Base configs
+baseurl: "https://andreacrabtree.github.io"
+#baseurl: "" # Comment the above line and uncomment this to test the website locally
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+google_analytics: "UA-46465113-2"
+
+# UI configs
+title: "Andrea Crabtree"
+author: "Andrea Crabtree"
+header:
+ title: "Andrea Crabtree"
+footer:
+ name: "Hi there, my name is Andrea"
+ bio: "I am a passionate photographer looking for opportunities in photojournalism. (please change this lol)"
+web_design: "KM"
+# Configure which exif data to display
+# Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
+exif: '[{"tag": "Model", "icon": "camera-retro"}, {"tag": "FNumber", "icon": "dot-circle-o"}, {"tag": "ExposureTime", "icon": "clock-o"}, {"tag": "ISOSpeedRatings", "icon": "info-circle"}]'
+social_urls:
+  twitter: "https://www.twitter.com/ram__patra"
+  instagram: "https://www.instagram.com/ram_patra"
+  dribbble: "https://dribbble.com/rampatra"
+  linkedin: "https://in.linkedin.com/in/ram-patra"
+  github: "https://www.github.com/rampatra"
